@@ -1,5 +1,5 @@
 🛍️ GenZfits – Fashion E-commerce User Panel
-GenZfits User Panel is a responsive front-end web application for a fashion e-commerce platform, designed to offer a smooth and intuitive shopping experience. Built with React.js, HTML, and JavaScript, it includes essential user-facing features such as browsing products, managing the cart, and tracking orders.
+GenZfits User Panel is a responsive front-end web application for a fashion e-commerce platform, designed to offer a smooth and intuitive shopping experience. Built with JavaScript, HTML, and css, it includes essential user-facing features such as browsing products, managing the cart, and tracking orders.
 
 🔧 Tech Stack
 Frontend: React.js, HTML5, JavaScript, CSS3
