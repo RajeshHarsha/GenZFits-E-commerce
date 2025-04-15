@@ -18,7 +18,8 @@ UI Framework: Bootstrap (optional, if used)
 🧑 Profile & Wishlist: Manage user details and wishlist items
 
 📁 Folder Structure
-![image](https://github.com/user-attachments/assets/5a4a3111-d96f-4aee-ac75-ef19819d7687)
+![image](https://github.com/user-attachments/assets/c527b978-a38f-4355-ba83-bfe1356031a1)
+
 
 
 ![screencapture-localhost-3000-2025-04-15-21_19_39](https://github.com/user-attachments/assets/a627e442-b1b8-42ee-8ed5-e982b5ce03e8)
