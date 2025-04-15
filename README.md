@@ -1,5 +1,9 @@
 ![screencapture-localhost-3000-2025-04-15-21_19_39](https://github.com/user-attachments/assets/a627e442-b1b8-42ee-8ed5-e982b5ce03e8)
 
+![screencapture-localhost-3000-product-1-2025-04-15-21_22_42](https://github.com/user-attachments/assets/a11fc604-cdfe-4bbd-90a3-ae91e0ca0232)
+
+![screencapture-localhost-3000-order-confirmation-2025-04-15-21_22_24](https://github.com/user-attachments/assets/d5b8e335-b229-4641-89ae-8e0a36ed5c09)
+
 
 # Getting Started with Create React App
 
